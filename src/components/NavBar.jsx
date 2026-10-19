@@ -6,8 +6,8 @@ export default function NavBar({ theme, toggleTheme }) {
     <nav className="navbar">
       <div className="nav-brand">
         <Link to="/" className="brand-logo">
-          <span className="brand-badge">VM</span>
-          <span className="brand-title">Vivek's Portfolio</span>
+          <span className="brand-badge">PP</span>
+          <span className="brand-title">Parth's Portfolio</span>
         </Link>
       </div>
 

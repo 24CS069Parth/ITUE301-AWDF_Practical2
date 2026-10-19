@@ -1,7 +1,7 @@
 # ITUE301: Advanced Web Development Frameworks
 ## Practical 2: State Management and Routing in React
 
-**Student Name:** Vivek Maheshwari  
+**Student Name:** Parth Patel  
 **Role:** Student  
 **Topic:** Client-Side Routing with React Router v6 & State Management with React `useState`
 

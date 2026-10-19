@@ -5,7 +5,7 @@ export default function About() {
     <section className="about-section card">
       <h2 className="section-title">About Me</h2>
       <p className="bio-text">
-        Hello! I am <strong>Vivek Maheshwari</strong>, a passionate Computer Science and Engineering student
+        Hello! I am <strong>Parth Patel</strong>, a passionate Computer Science and Engineering student
         focused on building modern, responsive, and user-centric web applications.
       </p>
       <div className="info-grid">
